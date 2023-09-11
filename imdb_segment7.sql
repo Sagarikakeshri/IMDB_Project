@@ -1,0 +1,30 @@
+-- Segment 7: Recommendations
+-- Based on the analysis, provide recommendations for the types of content Bolly movies should focus on producing.
+-- Bolly movies being a reputed production house in hindi cinema decided to extend its work globally 
+-- should focus on following aspects made after analysing the data of the movies in the global arena.
+-- 1.The total number of movies released each year are somewhere around 2000-3000 in decreasing order
+-- in the last 3 years.So the less the number of movies produced every year the best the quality should be.
+-- 2. There are only 887 movies produced in 2019 in India and USA,so if bolly movies cathces its market in 
+-- USA it will be of great profit.
+-- 3.There are total of 13 genre on which movies are produced worldwide,those are:-
+-- Thriller,Fantasy,Drama,Comedy,Horror,Romance,Family,Adventure,Sci-Fi,Action,Mystery,Crime,
+-- 4.Among all the genre Drama produced the maximum movies with the count of 4285,so the competition 
+-- in drama is much high than that with other genres.
+-- 5.The top 3 genre are Drama,Comedy,Thriller.
+-- 6.The average duration of the movies should lie between 100-112 minutes to match the international standards.
+-- 7.The top 10 movies from the past years are:-
+-- Love in Kilnerry,Kirket,Gini Helida Kathe,Runam,Fan,Android Kunjappan Version 5.25,Yeh Suhaagraat Impossible,
+-- Safe,The Brighton Miracle,Shibu.
+-- 8.There are total of 346 movies with median ratings of 10 where as with the median ratings among 7-9 lies 
+-- thousands of movies.
+-- 9.The top 3 directors in each genre are:
+-- Comedy:Sam Liu,Jesse V. Johnson,Anthony Russo
+-- Drama:Ksshitij Chaudhary,Luis Eduardo Reyes,Yûichi Fukuda
+-- Genre:Steven Soderbergh,Tigmanshu Dhulia,Jean-Claude La Marre
+-- Working with these directors will be more profitable for bolly movies.
+-- 10.The top 2 actors to work with are Mammootty,Mohanlal.
+-- 11.The top 3 competitors for bolly movies are:Marvel Studios,Twentieth Century Fox,Warner Bros.
+-- 12.The top 5 movies of top 3 genres in different years are:-
+-- 2017:The Fate of the Furious,Despicable Me 3,Jumanji: Welcome to the Jungle,Zhan lang II,Zhan lang II   
+-- 2018:Bohemian Rhapsody,Venom,Mission: Impossible - Fallout,Deadpool 2,Ant-Man and the Wasp
+-- 2019:Avengers: Endgame,The Lion King,Toy Story 4,Joker
